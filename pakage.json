@@ -1,0 +1,10 @@
+{
+  "name": "discord-ladder-bot",
+  "version": "1.0.0",
+  "description": "Discord Ladder Game Bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "express": "^4.19.2"
+  }
+}
